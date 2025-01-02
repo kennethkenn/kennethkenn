@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buchunju
+- 👋 Hi, I’m [@buchunju](https://github.com/buchunju)
 - 👀 I’m interested in C/C++, python, Assembly, Java and Web development.
 - 🌱 I’m currently learning how to create operating systems from scratch.
 - 💞️ I’m looking to collaborate on any project in the fields am interested in.
