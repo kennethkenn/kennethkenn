@@ -46,7 +46,7 @@ I am actively looking to collaborate on:
 
 * **Primary:** [buchunjukenneth@gmail.com](mailto:buchunjukenneth@gmail.com)
 * **Secondary:** [kennethbuchunju@gmail.com](mailto:kennethbuchunju@gmail.com)
-* **GitHub Alt:** [@kennethkenn](https://github.com/kennethkenn)
+* **GitHub Alt:** [@kennethkenn](https://github.com/buchunju)
 
 ---
 
