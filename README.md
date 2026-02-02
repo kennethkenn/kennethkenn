@@ -1,65 +1,55 @@
-# ⚡ Kenneth Buchunju
+# 👋 Hi, I'm Kenneth Buchunju
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buchunju&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-  <img src="https://img.shields.io/github/followers/buchunju?label=Followers&style=social" alt="Followers" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kennethkenn&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/Main%20Profile-kennethkenn-blue?style=flat-square&logo=github" alt="Main Profile" />
+  <img src="https://img.shields.io/badge/Alt%20Profile-buchunju-lightgrey?style=flat-square&logo=github" alt="Alt Profile" />
 </p>
 
-### 🛠️ Low-Level Explorer & Systems Architect
+### 💻 Systems Programmer & OS Dev Enthusiast
 
-I’m a developer who enjoys peeling back the layers of abstraction. From high-level **Java/Web** apps down to the bare metal of **Assembly** and **C**, I’m on a mission to understand how computers *really* work.
+I bridge the gap between high-level logic and bare-metal performance. Currently, I'm diving deep into the internals of computer architecture by building an operating system from the ground up.
 
 ---
 
-### 🏆 GitHub Trophies
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=buchunju&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
-### 🚀 Tech Stack
-
-| Domain | Technologies |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Systems** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-000?style=for-the-badge&logo=assembly&logoColor=white) |
-| **High-Level** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Web** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+| **Low-Level** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=assembly&logoColor=white) |
+| **High-Level** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Web Tech** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
-### 🌱 Current Project: Building an OS
+### 🌱 The OS Journey
 
-I'm currently writing a kernel from scratch. This involves:
+I’m currently navigating the "No Man's Land" between the BIOS and a functional Kernel. My current focus areas include:
 
-* 🖥️ **Real Mode to Protected Mode:** Transitioning the CPU.
-* 💾 **Writing a Bootloader:** Understanding how the hardware hands over control.
-* 📁 **Memory Management:** Implementing paging and segmentation.
-
-> "To truly understand an operating system, you must build one." — *The OS Dev Creed*
+* **Bootloaders:** Hand-rolling code to transition from Real Mode.
+* **Kernel Architecture:** Implementing interrupt handling (IDT) and memory segmentation.
+* **Hardware Interfacing:** Writing drivers for basic I/O.
 
 ---
 
-### 📊 Performance Analytics
+### 🤝 Collaboration & Networking
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=buchunju&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buchunju&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I am actively looking to collaborate on:
+
+* **Low-level systems** (Kernels, Compilers, Emulators).
+* **C/C++ libraries** or optimization tasks.
+* **Open-source OS projects**.
 
 ---
 
-### 📫 Get In Touch
+### 📫 Reach Out
 
-* **Email:** [buchunjukenneth@gmail.com](mailto:buchunjukenneth@gmail.com)
+* **Primary:** [buchunjukenneth@gmail.com](mailto:buchunjukenneth@gmail.com)
 * **Secondary:** [kennethbuchunju@gmail.com](mailto:kennethbuchunju@gmail.com)
-* **Alternative Profile:** [@kennethkenn](https://github.com/kennethkenn)
+* **GitHub Alt:** [@kennethkenn](https://github.com/kennethkenn)
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/buchunju/buchunju/main/snake.svg" alt="Snake animation" />
+  <i>"Control the hardware, or the hardware will control you."</i>
 </p>
