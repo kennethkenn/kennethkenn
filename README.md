@@ -44,8 +44,7 @@ I am actively looking to collaborate on:
 
 ### 📫 Reach Out
 
-* **Primary:** [buchunjukenneth@gmail.com](mailto:buchunjukenneth@gmail.com)
-* **Secondary:** [kennethbuchunju@gmail.com](mailto:kennethbuchunju@gmail.com)
+* **Email:** [kenneth@themintcoder.org](mailto:kenneth@themintcoder.org)
 * **GitHub Alt:** [@buchunju](https://github.com/buchunju)
 
 ---
